@@ -1,2 +1,7 @@
 # Teste-BDR
-respostas das questões
+Instruções para Visualização
+
+Questão1: Arquivo /index.php
+
+Questão1: Arquivo /index.php
+
