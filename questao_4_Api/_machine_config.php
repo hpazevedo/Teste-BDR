@@ -26,7 +26,7 @@ GlobalConfig::$CONNECTION_SETTING->Multibyte = true;
 // GlobalConfig::$CONNECTION_SETTING->BootstrapSQL = "SET SQL_BIG_SELECTS=1";
 
 /** the root url of the application with trailing slash, for example http://localhost/tarefas/ */
-GlobalConfig::$ROOT_URL = RequestUtil::GetServerRootUrl() . 'api2/';
+GlobalConfig::$ROOT_URL = RequestUtil::GetServerRootUrl() . 'questao_4_Api/';
 
 /** timezone */
 // date_default_timezone_set("UTC");

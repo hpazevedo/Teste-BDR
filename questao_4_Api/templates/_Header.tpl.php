@@ -59,7 +59,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</a>
-						<a class="brand" href="./">Tarefas</a>
+						<a class="brand" href="./">Home </a>
 						<div class="nav-collapse collapse">
 							<ul class="nav">
 								<li <?php if ($this->nav=='tarefas') { echo 'class="active"'; } ?>><a href="./tarefas">Tarefas</a></li>
