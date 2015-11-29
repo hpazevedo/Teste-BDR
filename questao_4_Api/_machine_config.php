@@ -17,9 +17,9 @@ require_once("verysimple/HTTP/RequestUtil.php");
 /** database connection settings */
 GlobalConfig::$CONNECTION_SETTING = new ConnectionSetting();
 GlobalConfig::$CONNECTION_SETTING->ConnectionString = "localhost:3306";
-GlobalConfig::$CONNECTION_SETTING->DBName = "hpacombr_wee";
-GlobalConfig::$CONNECTION_SETTING->Username = "hpacombr_wee";
-GlobalConfig::$CONNECTION_SETTING->Password = "a1s2d3f4";
+GlobalConfig::$CONNECTION_SETTING->DBName = "nomedb";
+GlobalConfig::$CONNECTION_SETTING->Username = "userdb";
+GlobalConfig::$CONNECTION_SETTING->Password = "passdb";
 GlobalConfig::$CONNECTION_SETTING->Type = "MySQL";
 GlobalConfig::$CONNECTION_SETTING->Charset = "utf8";
 GlobalConfig::$CONNECTION_SETTING->Multibyte = true;
